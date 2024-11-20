@@ -142,3 +142,10 @@
     font-size: 120px;
     line-height: 120px;
   }
+@media screen and (max-width: 767px) {
+    body {
+      background-color: #f3bfb1;
+      width: 1000px;
+      height: 100vh;
+    }
+  }
